@@ -1,6 +1,6 @@
 # Mapping Earthquakes Analysis
 
-## **Overview of Mapping Earthquakes Analysis**: in this challenge, we completed added on the earthquake chart created as part of the module, to add two differents maps and the earthquake overlay.
+## **Overview of Mapping Earthquakes Analysis**: in this challenge, we added on the earthquake chart created as part of the module, to add two differents maps and the earthquake overlay.
 
 ### As part of the module, we used the GeoJSON Features Object method to map all recorded earthquakes in the past seven days. 
 
